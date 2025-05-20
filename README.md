@@ -43,7 +43,7 @@ Tech Stack: `Node.js` | `PostgreSQL`
 
 #### 💻 Languages & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,sql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,bootstrap,tailwind,js,sql" />
 </p>
 
 #### ⚙️ Frameworks & Libraries
@@ -53,7 +53,7 @@ Tech Stack: `Node.js` | `PostgreSQL`
 
 #### 🛠 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,figma,git,github,arduino,vscode" />
 </p>
 
 ---
