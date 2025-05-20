@@ -10,7 +10,7 @@
 ---
 
 ### 🧠 About Me
-- 💡 Love building clean and scalable web apps  
+- 💡 Love building clean and scalable web application  
 - 🌐 Focused on backend logic + frontend aesthetics  
 - 👀 Exploring design-driven development with full-stack tools  
 - ✨ Always excited about hackathons, design sprints, and digital creativity
@@ -59,13 +59,13 @@ Tech Stack: `Node.js` | `PostgreSQL`
 ---
 
 ### 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sreenandika&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sreenandika&theme=radical" width="48%" />
 </p>
 
 ---
+
 
 ### 🏆 GitHub Trophies
 
