@@ -1,44 +1,77 @@
-<h1 align="center">Hi 👋, I'm Sreenandika Sreejith</h1>
-<h3 align="center">🎓 B.Tech IT Student | 💻 Aspiring Full-Stack Developer | 🌱 Django & Node.js Enthusiast</h3>
+<h1 align="center">Hey 👋, I'm Sreenandika Sreejith</h1>
+<h3 align="center">🎓 B.Tech IT Student | 💻 Aspiring Full-Stack Developer | 🎨 Designer at Heart</h3>
+
+<p align="center">
+  🚀 Passionate about practical web development, clean UI/UX, and creative digital experiences.
+  <br>
+  🌱 Currently exploring Django, Node.js, PostgreSQL, and Digital Marketing.
+</p>
 
 ---
 
-### 🌟 About Me
-
-- 🚀 Passionate about building **practical web solutions**, learning backend frameworks, and crafting **clean UI/UX experiences**  
-- 💡 Currently honing skills in **Django, Node.js, PostgreSQL, and Digital Marketing**  
-- 🎯 Strong focus on creating **scalable, maintainable full-stack apps** with smooth user interfaces
-
----
-
-### 🚀 Highlight Projects
-
-#### 📚 Flashcard Web App (Hackathon)  
-*Built during TinkerHub 24-Hour Hackathon*  
-**Tech:** Node.js, Express, PostgreSQL, HTML/CSS  
-- User authentication (login/signup without email)  
-- Submit and view flashcards by topic  
-- Cookie-based session handling for seamless login  
-🔗 [GitHub Repo](https://github.com/your-flashcard-repo)
+### 🧠 About Me
+- 💡 Love building clean and scalable web apps  
+- 🌐 Focused on backend logic + frontend aesthetics  
+- 👀 Exploring design-driven development with full-stack tools  
+- ✨ Always excited about hackathons, design sprints, and digital creativity
 
 ---
 
-#### 📊 Attendance Tracking System  
-*Full-stack attendance manager with backend storage*  
-**Tech:** Node.js, PostgreSQL  
-- Stores student/course data in normalized, scalable tables  
-- Designed to avoid PostgreSQL row limit for large datasets  
-- Includes API routes with complete CRUD functionality  
-🔗 [GitHub Repo](https://github.com/your-attendance-repo)
+### 🚀 Projects I'm Proud Of
+
+#### 📚 Flashcard Web App (Hackathon Project)
+> _Built during a 24-hour TinkerHub Hackathon_  
+Tech Stack: `Node.js` | `Express.js` | `PostgreSQL` | `HTML/CSS`  
+- Custom login/signup (no email)
+- Flashcard submission + topic-based viewing  
+- Secure cookie-based session handling  
+🔗 [GitHub Repo](https://github.com/Sreenandika/Flashcard.git)
 
 ---
 
-### 🛠 Skills & Tools
+#### 📊 Attendance Tracking System
+> _A scalable student attendance manager with PostgreSQL backend_  
+Tech Stack: `Node.js` | `PostgreSQL`  
+- Normalized schema for students, courses, enrollments  
+- Designed for large-scale usage beyond PostgreSQL row limits  
+- Includes REST API + full CRUD logic  
+🔗 [GitHub Repo](https://github.com/Sreenandika/Attendance-Tracker.git)
 
-| Languages             | Frameworks            | Databases           | Tools & Platforms        |
-|-----------------------|-----------------------|---------------------|-------------------------|
-| C, C++, Python (learning) | Django, Node.js, Express.js | PostgreSQL, MySQL   | Git, GitHub, VSCode      |
-| HTML, CSS, JavaScript (basic) |                       |                     | Figma, Postman           |
+---
+
+### 🎯 Skills & Tools
+
+#### 💻 Languages & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,sql" />
+</p>
+
+#### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=c,c++,python,django,nodejs,express" />
+</p>
+
+#### 🛠 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,figma,git,github,vscode" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=gruvbox&no-frame=true&column=7&margin-w=5" />
+</p>
 
 ---
 
@@ -50,26 +83,10 @@
   </a>
   &nbsp;
   <a href="mailto:sreenandika.sreejith@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical" width="48%" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=darkhub&no-frame=true&margin-w=10" />
-</p>
 
 
 
