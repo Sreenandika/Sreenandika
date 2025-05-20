@@ -70,7 +70,7 @@ Tech Stack: `Node.js` | `PostgreSQL`
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=gruvbox&no-frame=true&column=7&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sreenandika&theme=gruvbox&no-frame=true&column=7&margin-w=5" />
 </p>
 
 ---
