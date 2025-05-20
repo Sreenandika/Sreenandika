@@ -48,7 +48,7 @@ Tech Stack: `Node.js` | `PostgreSQL`
 
 #### ⚙️ Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=c,c++,python,django,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=django,nodejs,express" />
 </p>
 
 #### 🛠 Tools & Platforms
