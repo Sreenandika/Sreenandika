@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Sreenandika Sreejith</h1>
-<h3 align="center">🎓 B.Tech IT Student | 💻 Aspiring Full-Stack Developer | 🎨 Designer at Heart</h3>
+<h3 align="center">🎓 B.Tech IT Student | 💻 Aspiring Full-Stack Developer | 🎨 Designer </h3>
 
 <p align="center">
   🚀 Passionate about practical web development, clean UI/UX, and creative digital experiences.
