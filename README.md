@@ -82,9 +82,10 @@ Tech Stack: `Node.js` | `PostgreSQL`
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   &nbsp;
-  <a href="mailto:sreenandika.sreejith@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ <a href="mailto:sreenandika.sreejith@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
 
